@@ -1,0 +1,10 @@
+.div-1{
+    width: 500px;
+    height: 500px;
+    background-color: mediumpurple;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;    
+}
